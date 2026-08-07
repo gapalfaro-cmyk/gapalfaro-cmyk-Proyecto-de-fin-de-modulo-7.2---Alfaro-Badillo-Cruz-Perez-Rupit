@@ -15,10 +15,5 @@ El reporte deberá contener por cada ejercicio:
 3. Resultados (tablas y gráficas)
 4. Conclusiones
 
-1. Análisis de supervivencia, SGD, redes neuronales, etc. 
-
-Seleccione una de las siguientes bases de datos:
-SUPPORT
-METABRIC
-Rotterdam & GBSG
-FLCHAIN
+1. Análisis de supervivencia, SGD, redes neuronales, etc. en la base de datos METABRIC (cancer de mama)
+(las alternativas: SUPPORT, METABRIC, Rotterdam & GBSG o FLCHAIN)
