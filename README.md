@@ -18,8 +18,8 @@ El reporte deberá contener por cada ejercicio:
 # Modelos a realizar:
 1. Análisis de supervivencia,
 2. SGD,
-3. redes neuronales
-Aplicados en la base de datos METABRIC (cancer de mama).(las alternativas: SUPPORT, METABRIC, Rotterdam & GBSG o FLCHAIN)
+3. Redes neuronales
+Aplicados en la base de datos METABRIC (cancer de mama).Otras alternativas de base de datos son: SUPPORT, METABRIC, Rotterdam & GBSG o FLCHAIN)
 
 # Información:
 La base de datos METABRIC (Molecular Taxonomy of Breast Cancer International Consortium) es un recurso clínico y genómico que contiene perfiles de más de 2,500 pacientes con cáncer de mama para estudiar subtipos moleculares y la supervivencia a largo plazo.
